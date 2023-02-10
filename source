@@ -61,6 +61,6 @@ local Button = TabScript:CreateButton({
 	Callback = function()
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/Lucasfin000/SpaceHub/main/SpaceHubLoader"))()
 	end,
-}) --SpaceHub (Almost All Games Can Be Given Script With One Click)
+}) --SpaceHub (Almost All Games Can Be Given Script With One Click) But Use Key
 
 local SectionUtil = TabScript:CreateSection("Wait for update.")
